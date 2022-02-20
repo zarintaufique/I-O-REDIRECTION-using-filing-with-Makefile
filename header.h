@@ -1,6 +1,6 @@
-#ifndef HEADER1_H
-#define HEADER1_H
+#ifndef HEADER_H
+#define HEADER_H
 
-int q1();
+int code();
 
 #endif
